@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+faster-whisper
+gtts
+torch
+websockets
+python-multipart
